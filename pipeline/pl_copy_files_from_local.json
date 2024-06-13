@@ -1,0 +1,10 @@
+{
+	"name": "pl_copy_files_from_local",
+	"properties": {
+		"description": "This pipeline copies files from  local computer to azure data lake storage",
+		"folder": {
+			"name": "copy_activity"
+		},
+		"annotations": []
+	}
+}
