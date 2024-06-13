@@ -1,0 +1,7 @@
+{
+	"name": "self-hosted-integration",
+	"properties": {
+		"type": "SelfHosted",
+		"description": "This is used to coy files from on premises"
+	}
+}
